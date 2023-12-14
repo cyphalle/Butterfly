@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Butterfly",
+  "description": "Linkedin to Notion extension",
+  "version": "0.1",
+  "action": {
+    "default_popup": "butterfly_popup.html",
+    "default_icon": "butterfly.png"
+  }
+}
